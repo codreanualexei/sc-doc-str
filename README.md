@@ -1,4 +1,4 @@
-# Smart Contracts Documentation
+# Visual System Contracts Documentation
 
 ![System Contracts Flow](flow.png)
 
