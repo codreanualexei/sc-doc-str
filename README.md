@@ -1,5 +1,7 @@
 # Smart Contracts Documentation
 
+![System Contracts Flow](flow.png)
+
 ## Overview
 This document provides comprehensive documentation for four smart contracts in the StrDomains NFT ecosystem:
 
