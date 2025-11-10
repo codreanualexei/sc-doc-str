@@ -1,4 +1,4 @@
-# Visual System Contracts Documentation
+# System Contracts Documentation
 
 ![System Contracts Flow](flow.png)
 
